@@ -22,7 +22,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [repository](https://github.com/JuanCardona16/Easybank-landing-page)
-- Live Site URL: [site URL](https://your-live-site-url.com)
+- Live Site URL: [site URL](https://juancardona16.github.io/Easybank-landing-page/)
 
 ## My process
 
