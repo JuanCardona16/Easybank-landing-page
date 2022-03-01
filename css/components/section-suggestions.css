@@ -1,0 +1,34 @@
+.section__suggestions {
+  background: hsl(220, 16%, 96%);
+  margin-top: 20px;
+  text-align: center;
+  padding: 40px 30px;
+}
+
+.section__suggestions h2 {
+  font-weight: 400;
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.section__suggestions p {
+  color: hsl(233, 8%, 62%);
+  margin-bottom: 50px;
+  font-size: .8em;
+  line-height: 1.5rem;
+}
+
+.section__suggestions .cards {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.section__suggestions .cards .card h3 {
+  margin: 20px 0px;
+  font-weight: 400;
+}
+
+.section__suggestions .cards .card p {
+  margin: 0;
+}
