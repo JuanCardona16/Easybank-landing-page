@@ -26,6 +26,15 @@ body {
 /* Desktop version */
 
 @media only screen and (min-width: 1000px) {
+  body::-webkit-scrollbar {
+    width: 8px;
+    background-color: #fff;
+  }
+
+  body::-webkit-scrollbar-thumb {
+    background: hsl(136, 65%, 51%);
+  }
+
   .header {
     margin: 0px 90px;
     padding: 10px;
